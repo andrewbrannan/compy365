@@ -7,7 +7,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "compy365-lib"
+name = "compy365"
 version = "0.1.0"
 dependencies = [
  "regex 0.2.5 (registry+https://github.com/rust-lang/crates.io-index)",

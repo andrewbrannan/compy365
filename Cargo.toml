@@ -1,15 +1,7 @@
 [package]
-name = "compy365-lib"
+name = "compy365"
 version = "0.1.0"
 authors = ["andrewbrannan <andrew.brannan@gmail.com>"]
 
 [dependencies]
 regex = "0.2.5"
-
-[lib]
-name = "compy356_lib"
-path = "src/lib.rs"
-
-[[bin]]
-name = "compy356"
-path = "src/main.rs"
